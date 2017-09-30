@@ -1,0 +1,67 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{192, 71}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "show_address_touch_up_inside",
+          "frame" : "{{187, 229}, {80, 32}}",
+          "title" : "Peter",
+          "uuid" : "6090275F-B3A8-4E80-8D71-46D239675DE5",
+          "class" : "Button",
+          "name" : "Peter_zhu_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{192, 171}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "show_address_touch_up_inside",
+          "frame" : "{{187, 229}, {80, 32}}",
+          "title" : "Ottawa",
+          "uuid" : "04976009-B086-45B1-AEAD-AF835E3EC0DD",
+          "class" : "Button",
+          "name" : "ottawa_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{187, 297}, {80, 30}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "show_address_touch_up_inside",
+          "frame" : "{{187, 229}, {80, 32}}",
+          "title" : "Ontario",
+          "uuid" : "712774A1-DCBF-4A63-909C-922BFCA14C55",
+          "class" : "Button",
+          "name" : "Ontario_button",
+          "font_size" : 15
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {454, 489}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
